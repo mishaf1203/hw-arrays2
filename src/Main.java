@@ -56,7 +56,6 @@ public class Main {
             System.out.print(reverseFullName[i-1]);
         }
 
-
         return arr;
     }
 
